@@ -15,4 +15,4 @@ function login(){
 }
 
 const btnIngresar = document.getElementById('btnIngresar');
- btnIngresar.addEventListener("click",login)
+btnIngresar.addEventListener("click",login)
